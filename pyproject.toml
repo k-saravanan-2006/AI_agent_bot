@@ -13,5 +13,6 @@ dependencies = [
     "langchain-groq>=1.1.3",
     "langchain-openai>=1.3.3",
     "langchain-tavily>=0.2.18",
+    "pymupdf>=1.28.0",
     "python-dotenv>=1.2.2",
 ]
