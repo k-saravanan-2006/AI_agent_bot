@@ -6,4 +6,8 @@ python-dotenv
 langchain-google-genai
 langchain_tavily
 langchain_core
+pypdf
 pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
